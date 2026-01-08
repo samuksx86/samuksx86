@@ -63,22 +63,6 @@ Production-oriented Retrieval-Augmented Generation system.
 
 ---
 
-## 🧩 Engineering Principles
-
-- Models degrade → **monitoring is non-negotiable**
-- Manual infrastructure doesn’t scale → **everything is code**
-- Latency and cost are **product-level requirements**
-- Notebooks are for exploration, **not delivery**
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuks86&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuks86&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Contact
 
 - 💼 Open to **AI Engineer / MLOps Engineer** roles
