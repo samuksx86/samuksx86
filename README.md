@@ -1,78 +1,101 @@
-# Samuel — AI Engineer
+# Samuel Ramos
 
-Engenheiro de IA focado em **construção, operação e escala de sistemas de Machine Learning e GenAI em produção**.
+**AI Engineer · MLOps · GenAI Systems**  
+Brazil · Open to Remote & International Opportunities
 
-Trabalho na interseção entre **engenharia de software, dados, infraestrutura e modelos**, com foco em confiabilidade, custo e observabilidade.  
-Meu interesse principal não é o modelo em si, mas **o sistema que o sustenta em produção**.
+I design and operate **production-grade AI systems**, with a strong focus on reliability, scalability, cost efficiency, and observability.  
+My work sits at the intersection of **software engineering, data platforms, infrastructure, and machine learning**.
 
----
-
-## 🧠 Áreas de atuação
-
-- Deploy e operação de modelos de ML e LLMs
-- Pipelines de dados e treinamento automatizado
-- MLOps e LLMOps
-- Infraestrutura como código
-- Monitoramento de performance, drift, latência e custo
+I’m less interested in models in isolation — and more in **systems that survive real-world production**.
 
 ---
 
-## 🛠 Stack principal
+## 🧠 Profile Summary
 
-**Backend & Engenharia**
-- Python (FastAPI, Pydantic, pytest)
-- SQL (PostgreSQL)
-
-**Machine Learning & MLOps**
-- scikit-learn, XGBoost, MLflow
-- Airflow, CI/CD para ML
-- Versionamento de dados e modelos
-
-**Infraestrutura & Cloud**
-- Docker, Kubernetes
-- Terraform
-- AWS (S3, ECS/EKS, IAM)
-
-**GenAI / LLM Systems**
-- RAG (LlamaIndex / LangChain)
-- Vector databases (FAISS / Pinecone)
-- Observabilidade e tracing de LLMs
-- Estratégias de redução de custo e latência
+- AI Engineer focused on **ML and GenAI in production**
+- Strong background in **backend engineering and cloud infrastructure**
+- Hands-on experience with **MLOps, LLMOps, and automated pipelines**
+- Engineering-driven mindset: clarity, trade-offs, and measurable impact
 
 ---
 
-## 📦 Projetos selecionados
+## 🛠️ Core Stack
+
+### Languages & Backend
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Machine Learning & MLOps
+![scikit-learn](https://img.shields.io/badge/scikit--learn-374151?style=for-the-badge&logo=scikit-learn&logoColor=FBBF24)
+![MLflow](https://img.shields.io/badge/MLflow-1E3A8A?style=for-the-badge&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-0F172A?style=for-the-badge&logo=apache-airflow&logoColor=38BDF8)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=F59E0B)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=3B82F6)
+![Terraform](https://img.shields.io/badge/Terraform-1F2937?style=for-the-badge&logo=terraform&logoColor=8B5CF6)
+
+### GenAI & LLM Systems
+![RAG](https://img.shields.io/badge/RAG-020617?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-020617?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-020617?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-020617?style=for-the-badge)
+
+---
+
+## 📦 Featured Work
 
 ### AI / ML Platform
-Plataforma end-to-end para ML em produção.
+End-to-end ML platform designed for production environments.
 
-- Pipeline automatizado de dados e treinamento
-- Model Registry e versionamento
-- API de inferência
-- Monitoramento de métricas e drift
-- Infraestrutura provisionada via Terraform
+- Automated data ingestion and training pipelines
+- Model Registry and versioning
+- FastAPI-based inference service
+- Drift, performance, and reliability monitoring
+- Infrastructure provisioned via Terraform
 
-→ Repositório em destaque
+→ *Pinned repository*
 
 ---
 
 ### GenAI RAG System
-Sistema de RAG projetado para uso real em produção.
+Production-oriented Retrieval-Augmented Generation system.
 
-- Ingestão e indexação automática de documentos
-- API de geração com recuperação vetorial
-- Cache, tracing e controle de custo
-- Avaliação contínua de respostas
+- Automated document ingestion and indexing
+- Vector-based retrieval and context management
+- Cost-aware inference and caching strategies
+- Tracing, evaluation, and observability
 
-→ Repositório em destaque
-
----
-
-## 🤝 Contato
-
-- 💼 Abertura para posições como **AI Engineer / MLOps Engineer**
-- 🌍 Remoto ou internacional
+→ *Pinned repository*
 
 ---
 
-*IA gera valor quando se comporta como software confiável.*
+## 🧩 Engineering Principles
+
+- Models degrade → **monitoring is non-negotiable**
+- Manual infrastructure doesn’t scale → **everything is code**
+- Latency and cost are **product-level requirements**
+- Notebooks are for exploration, **not delivery**
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Contact
+
+- 💼 Open to **AI Engineer / MLOps Engineer** roles
+- 🌍 Remote-first, global mindset
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL)
+
+---
+
+*AI delivers value when it behaves like reliable software.*
