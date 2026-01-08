@@ -10,15 +10,6 @@ I’m less interested in models in isolation — and more in **systems that surv
 
 ---
 
-## 🧠 Profile Summary
-
-- AI Engineer focused on **ML and GenAI in production**
-- Strong background in **backend engineering and cloud infrastructure**
-- Hands-on experience with **MLOps, LLMOps, and automated pipelines**
-- Engineering-driven mindset: clarity, trade-offs, and measurable impact
-
----
-
 ## 🛠️ Core Stack
 
 ### Languages & Backend
@@ -83,8 +74,8 @@ Production-oriented Retrieval-Augmented Generation system.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuks86&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuks86&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
@@ -93,8 +84,8 @@ Production-oriented Retrieval-Augmented Generation system.
 - 💼 Open to **AI Engineer / MLOps Engineer** roles
 - 🌍 Remote-first, global mindset
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/samuel-r-10607721a/)
+[![Email](https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samuks2005@outlook.com)
 
 ---
 
